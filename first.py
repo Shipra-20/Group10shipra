@@ -1,2 +1,2 @@
 thislist = ["apple","banana","cherry","mango"]
-print(thislist)
+print(thislist)A new line is added to code
