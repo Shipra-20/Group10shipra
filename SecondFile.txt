@@ -1,2 +1,2 @@
 Second file added to newbranch
-New line added
+New line added in this branch.
